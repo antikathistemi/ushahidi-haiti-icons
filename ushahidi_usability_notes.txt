@@ -1,0 +1,126 @@
+Adding the map is cumbersome if you are in a rush -- we need people to submit reports in parallel. 
+
+
+updating categories is time consuming when multiple people are working on it -- need versioncontrol and "patrick is editing this" indicators. 
+
+
+need a "brain" that remembers which sources and where
+
+needa brain that has locations of airports, hospitals, schools, and other POI
+
+use a delicious tag
+that does not have periods
+
+lots of data on maps that are not in KML. 
+
+lack of awareness that you can submit links to ushahidi without being on the ground. 
+
+lack of KML data generally. 
+
+editin locations has too-eager validation. 
+editing locations with manual lat long has a bug that puts it in the center of the map. 
+
+standardize "incident" vs "report"
+
+manning the other category. 
+
+friends might be dead. 
+
+icons should show in the default view. 
+
+looking for the admin login button. (could be cookie based -- it logged me in automatically.)
+
+needed to take a break and come back and work on my own time. 
+
+needed to know the people that I was working with. 
+
+Needed to feel totally supported by them. 
+
+Needed to feel 
+
+needed time to read articles
+
+needed to be able to speak spanish
+
+need those topo maps again dammit -- though I am realizing I will not have time to get them tonight ...
+
+needed to understand that I would be doing this tomorrow and the next day. 
+
+need a wiki and shared todo list
+
+needed to vent that some of the reorting sucked. 
+
+wanted to see how some of the reports changed over time. 
+
+wanted a visualization of all of the reports coming our of a specific source. 
+
+
+wish i could see screencaps of the videos. 
+
+needed a realtime twitter geolocation search. 
+
+needed a realtime search from news outlets in the region. 
+
+there is a time that all you know is the internet, and your entire sense of self=satisfaction is drawn from the internet. 
+
+ushahodi repeats entries if you reload the page. (i didn't mean to do it but I did twice in three hours.)
+
+what is a form type? when creating a report. 
+
+not sure if I should approve it? 
+
+verify it??
+
+how to judge the source reliability -- that's great I can just choose.wait -- Probability vs reliabillity ? the answers don't make sense to me.
+
+if someone links a video, you have to watch the whole video. 
+
+wish i had a way to scrup spammers on this youtube page. (any page)
+
+youtube videos can be easily faked. (spliced in misinformation) ... if you put it toward the end it would be really undetectable by non-human aggregators. 
+
+how do I moderate this? I have no idea who this person is. 
+
+
+The "personal information" in the reporter form needs to be associated with a person's website (or ICCM ning page or Facebook or *something* that tells me who they are.)
+
+most critically I need to understand who is speaking in the first person in the report. Is it the "personal section" information? 
+
+the stats look weird with the full day scale. ping more often?
+
+theme has no screenshot. 
+
+what language do they speak
+
+what are they major networks saying (nytimes) -- and what are they aggregating? 
+
+http://thelede.blogs.nytimes.com is the best source of news. 
+
+@AnnCurry: State Department has a # for Americans seeking info about family in Haiti: 1-888-407-4747
+
+@fredodupoux — writes that, despite what we heard via Haitian television earlier, “no phones are working,” at least where he is. He appeals to the local companies, “Digicel Voila ! restore phone service ASAP.”
+
+Just came back from Caribbean Super Market. It looks like ground zero. people are trapped it’s dark we need light and cell phone service.
+
+It’s really ugly, just like in a bad dream. people need help, get out and help!
+
+partial list of Twitter users who say they are in Haiti compiled by the Los Angeles Times.
+
+
+<insert many more tweets>
+
+confirm radio is out
+confirm phone is out
+confirm power is out
+
+NEED A TRANSLATOR!
+
+incredible horrifying images
+
+news feeds shouold be promoted to teh top, with messages. 
+
+there is generally confusioon between SMS, reports, messages, incidents. 
+
+
+
+
